@@ -1,10 +1,4 @@
-# HTML Projects
-
-This repository contains my beginner frontend projects built using HTML.
-
-## Projects
-
-### 1. Personal Resume Website
+ Personal Resume Website
 
 A portfolio-style resume webpage built using semantic HTML elements.
 
@@ -15,5 +9,5 @@ Features:
 * Contact form
 * Semantic HTML tags
 
-More projects will be added as I continue learning frontend development.
+This will further be improvised using css and javascript.
 
